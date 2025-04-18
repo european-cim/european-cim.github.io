@@ -1,0 +1,30 @@
+project:
+  type: website
+  resources:
+    - data/*
+
+website:
+  open-graph:
+    image: eurocim-icon.gif
+  image: eurocim-icon.gif
+  favicon: "eurocim-icon.gif"
+  title: "European Causal Inference Meeting"
+  page-footer:
+    background: "#07342a"
+    left:
+      - text: "Contact webmaster"
+        href: "mailto:european.cim@gmail.com"
+    right:
+      - text: ""
+
+format:
+    html:
+      page-layout: full
+      title-block-banner: "#07342a"
+      theme: sandstone
+      css: styles.css
+      toc: false
+      background: "#07342a"
+      logo: "eurocim-icon.gif"
+
+

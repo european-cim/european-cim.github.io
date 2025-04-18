@@ -1,0 +1,16 @@
+.quarto-title-block .quarto-title-banner {
+  height: 200px;
+}
+
+.subtitle.lead {
+  text-align: center;
+  font-size: 1.75rem;
+}
+
+section.level2.conference-teaser {
+  outline-color: #07342a;
+  outline-width: thick;
+  outline-style: solid;
+  padding: .5rem;
+  margin: 1rem;
+}
