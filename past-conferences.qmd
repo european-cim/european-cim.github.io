@@ -1,0 +1,22 @@
+---
+title: "Past conferences"
+---
+
+## EuroCIM 2025, Ghent, Belgium { .conference-teaser }
+
+EuroCIM 2025 was held in Ghent, Belgium from April 8-11, 2025.
+
+[2025 Conference website](ghent-2025)
+
+![Ghent](ghent-small.png)
+
+
+## EuroCIM 2024, Copenhagen, Denmark { .conference-teaser }
+
+
+EuroCIM 2024 was held in Copenhagen, Denmark from April 17-19, 2024.
+
+[2024 Conference website](copenhagen-2024)
+
+![Copenhagen](cph-small.png)
+

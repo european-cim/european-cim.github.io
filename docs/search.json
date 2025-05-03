@@ -1,37 +1,51 @@
 [
   {
+    "objectID": "past-conferences.html",
+    "href": "past-conferences.html",
+    "title": "Past conferences",
+    "section": "",
+    "text": "EuroCIM 2025 was held in Ghent, Belgium from April 8-11, 2025.\n2025 Conference website\n\n\n\nGhent"
+  },
+  {
+    "objectID": "past-conferences.html#eurocim-2025-ghent-belgium",
+    "href": "past-conferences.html#eurocim-2025-ghent-belgium",
+    "title": "Past conferences",
+    "section": "",
+    "text": "EuroCIM 2025 was held in Ghent, Belgium from April 8-11, 2025.\n2025 Conference website\n\n\n\nGhent"
+  },
+  {
+    "objectID": "past-conferences.html#eurocim-2024-copenhagen-denmark",
+    "href": "past-conferences.html#eurocim-2024-copenhagen-denmark",
+    "title": "Past conferences",
+    "section": "EuroCIM 2024, Copenhagen, Denmark",
+    "text": "EuroCIM 2024, Copenhagen, Denmark\nEuroCIM 2024 was held in Copenhagen, Denmark from April 17-19, 2024.\n2024 Conference website\n\n\n\nCopenhagen"
+  },
+  {
+    "objectID": "steering-committee.html",
+    "href": "steering-committee.html",
+    "title": "Steering committee",
+    "section": "",
+    "text": "The EuroCIM steering committee consists of\n\nAlessandra Mattei\nRhian Daniel\nErin Gabriel\nFabrizia Mealli\nFinbarr Leacy\nJon Michael Gran\nKarla Diaz-Ordaz\nKate Tilling\nKjetil Roysland\nMats Stensrud\nNiels Richard Hansen\nNoemi Kreif\nOliver Dukes\nPaul Clarke\nRichard Emsley\nSara Geneletti\nSabine Landau\nMichele Santacatterina\nStephen Burgess\nVanessa Didelez"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "European Causal Inference Meeting",
     "section": "",
-    "text": "Save the date! The meeting will take place from April 14-17, 2026, with pre-conference courses on the 13th.\nMore information coming soon\n\n\n\nOxford"
-  },
-  {
-    "objectID": "index.html#eurocim-2026-will-be-held-in-oxford-united-kingdom",
-    "href": "index.html#eurocim-2026-will-be-held-in-oxford-united-kingdom",
-    "title": "European Causal Inference Meeting",
-    "section": "",
-    "text": "Save the date! The meeting will take place from April 14-17, 2026, with pre-conference courses on the 13th.\nMore information coming soon\n\n\n\nOxford"
-  },
-  {
-    "objectID": "index.html#eurocim-2025-ghent-belgium",
-    "href": "index.html#eurocim-2025-ghent-belgium",
-    "title": "European Causal Inference Meeting",
-    "section": "EuroCIM 2025, Ghent, Belgium",
-    "text": "EuroCIM 2025, Ghent, Belgium\nEuroCIM 2025 was held in Ghent, Belgium from April 8-11, 2025.\n2025 Conference website\n\n\n\nGhent"
-  },
-  {
-    "objectID": "index.html#eurocim-2024-copenhagen-denmark",
-    "href": "index.html#eurocim-2024-copenhagen-denmark",
-    "title": "European Causal Inference Meeting",
-    "section": "EuroCIM 2024, Copenhagen, Denmark",
-    "text": "EuroCIM 2024, Copenhagen, Denmark\nEuroCIM 2024 was held in Copenhagen, Denmark from April 17-19, 2024.\n2024 Conference website\n\n\n\nCopenhagen"
+    "text": "The general theme of the meeting is “Causal Inference in Health, Economic and Social Sciences”. Causal inference is broadly defined, and the focus is on statistical methodology and challenging applications that highlight necessary methodological extensions.\n\nEuroCIM aims to provide a forum for people interested in causal inference to meet informally, for early career and established researchers to present and discuss the latest developments in the field, and to offer opportunities for networking to develop future research opportunities and collaborations.\nEuroCIM evolved from what used to be the “UK Causal Inference Meetings” (UK-CIM).\n\nPlease note that registration for the meeting is not restricted to people from Europe, and we welcome participation from anyone who would like to attend!\nFollow us on Bluesky Join our mailing list"
   },
   {
     "objectID": "index.html#about-eurocim",
     "href": "index.html#about-eurocim",
     "title": "European Causal Inference Meeting",
-    "section": "About EuroCIM",
-    "text": "About EuroCIM\nThe general theme of the meeting is “Causal Inference in Health, Economic and Social Sciences”. Causal inference is broadly defined, and the focus is on statistical methodology and challenging applications that highlight necessary methodological extensions.\n\nEuroCIM aims to provide a forum for people interested in causal inference to meet informally, for early career and established researchers to present and discuss the latest developments in the field, and to offer opportunities for networking to develop future research opportunities and collaborations.\nEuroCIM evolved from what used to be the “UK Causal Inference Meetings” (UK-CIM). The EuroCIM steering committee consists of Alessandra Mattei, Rhian Daniel, Erin Gabriel, Fabrizia Mealli, Finbarr Leacy, Jon Michael Gran, Karla Diaz-Ordaz, Kate Tilling, Kjetil Roysland, Mats Stensrud, Niels Richard Hansen, Noemi Kreif, Oliver Dukes, Paul Clarke, Richard Emsley, Sara Geneletti, Sabine Landau, Michele Santacatterina, Stephen Burgess, and Vanessa Didelez.\n\nPlease note that registration for the meeting is not restricted to people from Europe, and we welcome participation from anyone who would like to attend!\nFollow us on Bluesky"
+    "section": "",
+    "text": "The general theme of the meeting is “Causal Inference in Health, Economic and Social Sciences”. Causal inference is broadly defined, and the focus is on statistical methodology and challenging applications that highlight necessary methodological extensions.\n\nEuroCIM aims to provide a forum for people interested in causal inference to meet informally, for early career and established researchers to present and discuss the latest developments in the field, and to offer opportunities for networking to develop future research opportunities and collaborations.\nEuroCIM evolved from what used to be the “UK Causal Inference Meetings” (UK-CIM).\n\nPlease note that registration for the meeting is not restricted to people from Europe, and we welcome participation from anyone who would like to attend!\nFollow us on Bluesky Join our mailing list"
+  },
+  {
+    "objectID": "index.html#eurocim-2026-will-be-held-in-oxford-united-kingdom",
+    "href": "index.html#eurocim-2026-will-be-held-in-oxford-united-kingdom",
+    "title": "European Causal Inference Meeting",
+    "section": "EuroCIM 2026 will be held in Oxford, United Kingdom",
+    "text": "EuroCIM 2026 will be held in Oxford, United Kingdom\nSave the date! The meeting will take place from April 14-17, 2026, with pre-conference courses on the 13th.\nMore information coming soon\n\n\n\nOxford"
   }
 ]

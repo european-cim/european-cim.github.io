@@ -10,6 +10,13 @@ website:
   image: eurocim-icon.gif
   favicon: "eurocim-icon.gif"
   title: "European Causal Inference Meeting"
+  navbar: 
+    background: "#07342a"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - past-conferences.qmd
+      - steering-committee.qmd
   page-footer:
     background: "#07342a"
     left:
@@ -22,7 +29,9 @@ format:
     html:
       page-layout: full
       title-block-banner: "#07342a"
-      theme: sandstone
+      theme: 
+        - sandstone
+        - custom.scss
       css: styles.css
       toc: false
       background: "#07342a"

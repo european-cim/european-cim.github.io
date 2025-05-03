@@ -8,9 +8,10 @@
 }
 
 section.level2.conference-teaser {
-  outline-color: #07342a;
-  outline-width: thick;
-  outline-style: solid;
+  border-color: #07342a;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 1rem;
   padding: .5rem;
   margin: 1rem;
 }
