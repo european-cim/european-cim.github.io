@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - data/*
+    - styles.css
   output-dir: docs
 
 website:

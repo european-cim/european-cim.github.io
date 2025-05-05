@@ -20,3 +20,82 @@ EuroCIM 2024 was held in Copenhagen, Denmark from April 17-19, 2024.
 
 ![Copenhagen](cph-small.png)
 
+
+## EuroCIM 2023 {.conference-teaser}
+
+EuroCIM 2023 was held in Oslo, Norway from April 19th-21st.
+
+## EuroCIM 2022 {.conference-teaser}
+
+EuroCIM 2022 was cancelled due to the COVID-19 pandemic.
+
+## EuroCIM 2021, Online {.conference-teaser}
+
+Online: Leibniz Institute for Prevention Research and Epidemiology, University of Bristol, LSHTM and London School of Economics  
+
+[Patial programme](https://www.lse.ac.uk/statistics/events/EuroCIM-Conference-Day-3/Programme-at-a-glance)
+
+## EuroCIM 2020, Bristol, United Kingdom {.conference-teaser}
+
+## EuroCIM 2019, Bremen, Germany {.conference-teaser }
+
+European Causal Inference Meeting (EuroCIM) took place in Bremen, Germany on 27-29 March 2019.
+Pre-conference courses: 26 March
+
+Venue: University of Bremen, Germany
+
+Invited Speakers:
+
+- Jonathan Bartlett (Department of Mathematical Sciences, University of Bath)
+- Rhian Daniel (School of Medicien, Cardiff University)
+- Philip Dawid FRS (Emeritus Professor of Statistics, University of Cambridge)
+- Marloes Maathuis (Seminar für Statistik, ETH Zürich)
+- Andrea Rotnitzky (Department of Economics, Universidad Di Tella, Buenos Aires; and Harvard T.H. Chan School of Public Health)
+- Kate Tilling (School of Social and Community Medicine, University of Bristol)
+- Stijn Vansteelandt (Department of Applied Mathematics, Computer Science and Statistics, Ghent University)
+
+Local Organisers:
+
+- Vanessa Didelez (BIPS & University of Bremen)
+- Werner Brannath (KKSB & University of Bremen)
+- Janine Witte (BIPS)
+
+With support from:
+
+- Leibniz Institute for Prevention Research and Epidemiology - BIPS  https://www.bips-institut.de/en/home.html
+- Competence Center for Clinical Trials (KKSB)  https://www.kksb.uni-bremen.de/en
+- University of Bremen https://www.uni-bremen.de/en.html
+
+## EuroCIM 2018 {.conference-teaser}
+
+EuroCIM 2018 was held in Florence, Italy from Wednesday April 11 to Friday April 13. 
+
+[Programme and information](https://www.arcolab.org/en/euro-cim/)
+
+## UK-CIM 2017 {.conference-teaser}
+
+Colchester, University of Essex
+
+## UK-CIM 2016 {.conference-teaser}
+
+The UK-CIM 2016 was held in London, United Kingdom. 
+
+[Programme and information](https://web-archive.lshtm.ac.uk/csm.lshtm.ac.uk/uk-causal-inference-meeting-2016/)
+
+## UK-CIM 2015 {.conference-teaser}
+
+University of Bristol 
+
+[Programme and information](https://www.sustain.bris.ac.uk/ws-uk-cim/)
+
+## UK-CIM 2014 {.conference-teaser}
+
+University of Cambridge
+
+## UK-CIM 2013 {.conference-teaser}
+
+University of Manchester  
+
+[Programme and information](https://focusgroupcausality.wordpress.com/2013/05/12/uk-cim-about-to-start/#more-599)
+
+

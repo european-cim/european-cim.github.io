@@ -18,9 +18,13 @@ The EuroCIM steering committee consists of
 - Noemi Kreif
 - Oliver Dukes
 - Paul Clarke
-- Richard Emsley
 - Sara Geneletti
 - Sabine Landau
-- Michele Santacatterina
 - Stephen Burgess
 - Vanessa Didelez
+- Antoine Chambaz
+- Julie Josse
+- Richard Post
+- Kelly Van Lancker
+- Ruth Keogh
+- Robin Evans 
