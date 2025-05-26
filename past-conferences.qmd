@@ -35,7 +35,10 @@ Online: Leibniz Institute for Prevention Research and Epidemiology, University o
 
 [Partial programme](https://www.lse.ac.uk/statistics/events/EuroCIM-Conference-Day-3/Programme-at-a-glance)
 
-## EuroCIM 2020, Bristol, United Kingdom {.conference-teaser}
+## EuroCIM 2020, Online {.conference-teaser}
+
+[Programme](eurocim2020online-programme.pdf)
+
 
 ## EuroCIM 2019, Bremen, Germany {.conference-teaser }
 
