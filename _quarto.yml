@@ -3,6 +3,7 @@ project:
   resources:
     - data/*
     - styles.css
+      CNAME
   output-dir: docs
 
 website:
