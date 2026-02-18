@@ -20,6 +20,13 @@ Please note that registration for the meeting is not restricted to people from E
 
 Save the date! The meeting will take place from April 15-17, 2026, with pre-conference courses on the 14th.
 
+::: {.callout-tip}
+## Registration is now open!
+
+[Click here to register](https://web.cvent.com/event/5b6a0389-33e1-48a4-a0a6-a311fb8d8bc1/regProcessStep1){.btn .btn-outline-primary .btn role="button"} 
+:::
+
+
 [Click here for the conference website](/oxford-2026){.btn .btn-outline-primary .btn role="button"} 
 
 [![](oxford-small.png)](/oxford-2026)
