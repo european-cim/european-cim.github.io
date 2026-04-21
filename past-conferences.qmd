@@ -2,6 +2,16 @@
 title: "Past conferences"
 ---
 
+
+## EuroCIM 2026, Oxford, United Kingdom { .conference-teaser }
+
+EuroCIM 2026 was held in Oxford, United Kingdom from April 15-17, 2026.
+
+[2026 Conference website](oxford-2026)
+
+![Oxford](oxford-small.png)
+
+
 ## EuroCIM 2025, Ghent, Belgium { .conference-teaser }
 
 EuroCIM 2025 was held in Ghent, Belgium from April 8-11, 2025.
